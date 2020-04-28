@@ -8,10 +8,6 @@ namespace DatingApp.API.Data
         public DataContext(DbContextOptions<DataContext> options) : base(options){}
 
         public DbSet<Value> Values{get; set;} // Table Name
-        public DbSet<User> Users{get; set;}
-        
-        
-        
         
     }
 }
