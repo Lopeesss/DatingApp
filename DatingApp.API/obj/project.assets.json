@@ -4506,11 +4506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Projetos\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
+      "projectUniqueName": "C:\\Projetos\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
       "projectName": "DatingApp.API",
-      "projectPath": "c:\\Projetos\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
+      "projectPath": "C:\\Projetos\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
       "packagesPath": "C:\\Users\\Danilo Lopes\\.nuget\\packages\\",
-      "outputPath": "c:\\Projetos\\DatingApp\\DatingApp.API\\obj\\",
+      "outputPath": "C:\\Projetos\\DatingApp\\DatingApp.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
