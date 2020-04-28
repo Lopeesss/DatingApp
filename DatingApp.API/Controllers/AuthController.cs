@@ -12,6 +12,7 @@ using Microsoft.IdentityModel.Tokens;
 
 namespace DatingApp.API.Controllers
 {
+    //teste
     [Route("api/[controller]")]
     [ApiController]
     public class AuthController : ControllerBase
