@@ -19,6 +19,7 @@ namespace DatingApp.API.Data
             var user = await _context.Users.FirstOrDefaultAsync(x => x.Username == username);
             
             
+            
             if(user == null)
                 return null;
             
